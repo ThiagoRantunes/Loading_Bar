@@ -7,7 +7,7 @@ body{
     background-color: aliceblue;
 }
 
-html{
+html,body{
     height: 100%;
     width: 100%;
 }
@@ -16,7 +16,8 @@ html{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 25%;
+    width: 100%;
+    height: 100%;
 }
 
 .bar{
